@@ -1,0 +1,62 @@
+[
+    {
+        "open": 120.5,
+        "high": 209.5,
+        "low": 100.0,
+        "close": 196.25,
+        "turnover": 49904.0,
+        "shareVolume": 341,
+        "tradeVolume": 21,
+        "tradeDate": 1644258600000
+    },
+    {
+        "open": 100.0,
+        "high": 200.0,
+        "low": 100.0,
+        "close": 344.0,
+        "turnover": 2700.0,
+        "shareVolume": 16,
+        "tradeVolume": 6,
+        "tradeDate": 1644172200000
+    },
+    {
+        "open": 350.0,
+        "high": 350.0,
+        "low": 100.0,
+        "close": 344.0,
+        "turnover": 4214.0,
+        "shareVolume": 18,
+        "tradeVolume": 9,
+        "tradeDate": 1643826600000
+    },
+    {
+        "open": 11.0,
+        "high": 700.0,
+        "low": 11.0,
+        "close": 344.0,
+        "turnover": 68588.25,
+        "shareVolume": 339,
+        "tradeVolume": 29,
+        "tradeDate": 1643740200000
+    },
+    {
+        "open": 411.0,
+        "high": 411.0,
+        "low": 102.0,
+        "close": 244.5,
+        "turnover": 27626.0,
+        "shareVolume": 113,
+        "tradeVolume": 9,
+        "tradeDate": 1643653800000
+    },
+    {
+        "open": 99.0,
+        "high": 999.0,
+        "low": 2.5,
+        "close": 463.0,
+        "turnover": 110113.75,
+        "shareVolume": 343,
+        "tradeVolume": 31,
+        "tradeDate": 1643567400000
+    }
+]
