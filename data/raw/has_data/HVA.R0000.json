@@ -1,0 +1,102 @@
+[
+    {
+        "open": 0.1,
+        "high": 0.1,
+        "low": 0.1,
+        "close": 0.1,
+        "turnover": 0.1,
+        "shareVolume": 1,
+        "tradeVolume": 1,
+        "tradeDate": 1725820200000
+    },
+    {
+        "open": 0.1,
+        "high": 0.1,
+        "low": 0.1,
+        "close": 0.1,
+        "turnover": 728.2,
+        "shareVolume": 7282,
+        "tradeVolume": 1,
+        "tradeDate": 1725388200000
+    },
+    {
+        "open": 0.1,
+        "high": 0.1,
+        "low": 0.1,
+        "close": 0.1,
+        "turnover": 7627.8,
+        "shareVolume": 76278,
+        "tradeVolume": 11,
+        "tradeDate": 1725301800000
+    },
+    {
+        "open": 0.1,
+        "high": 0.1,
+        "low": 0.1,
+        "close": 0.1,
+        "turnover": 144030.7,
+        "shareVolume": 1440307,
+        "tradeVolume": 47,
+        "tradeDate": 1725215400000
+    },
+    {
+        "open": 0.1,
+        "high": 0.1,
+        "low": 0.1,
+        "close": 0.1,
+        "turnover": 4410.1,
+        "shareVolume": 44101,
+        "tradeVolume": 12,
+        "tradeDate": 1649010600000
+    },
+    {
+        "open": 0.1,
+        "high": 0.1,
+        "low": 0.1,
+        "close": 0.1,
+        "turnover": 700.2,
+        "shareVolume": 7002,
+        "tradeVolume": 4,
+        "tradeDate": 1648751400000
+    },
+    {
+        "open": 0.2,
+        "high": 0.2,
+        "low": 0.1,
+        "close": 0.1,
+        "turnover": 22635.5,
+        "shareVolume": 201354,
+        "tradeVolume": 32,
+        "tradeDate": 1648665000000
+    },
+    {
+        "open": 0.1,
+        "high": 0.2,
+        "low": 0.1,
+        "close": 0.1,
+        "turnover": 126933.0,
+        "shareVolume": 1258327,
+        "tradeVolume": 81,
+        "tradeDate": 1648578600000
+    },
+    {
+        "open": 0.2,
+        "high": 0.2,
+        "low": 0.1,
+        "close": 0.1,
+        "turnover": 397694.2,
+        "shareVolume": 3788684,
+        "tradeVolume": 162,
+        "tradeDate": 1648492200000
+    },
+    {
+        "open": 0.2,
+        "high": 0.5,
+        "low": 0.1,
+        "close": 0.1,
+        "turnover": 905707.1,
+        "shareVolume": 3748117,
+        "tradeVolume": 359,
+        "tradeDate": 1648405800000
+    }
+]

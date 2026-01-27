@@ -1,0 +1,29 @@
+﻿scripts\
+  sql\
+  build_parquet_and_returns.py
+  parquet_to_csv.py
+  prepare_and_ingest.py
+sql\
+  ddl.sql
+src\
+  etl\
+    __pycache__\
+      cli.cpython-312.pyc
+      download.cpython-312.pyc
+      load.cpython-312.pyc
+      normalize.cpython-312.pyc
+      __init__.cpython-312.pyc
+    cli.py
+    download.py
+    load.py
+    normalize.py
+    __init__.py
+  __pycache__\
+    __init__.cpython-312.pyc
+  __init__.py
+.env
+.gitignore
+docker-compose.yml
+requirements.txt
+structure.txt
+test_cse.py
