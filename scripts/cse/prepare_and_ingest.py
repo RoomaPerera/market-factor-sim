@@ -11,8 +11,8 @@ from datetime import datetime
 import pandas as pd
 
 ROOT = os.getcwd()
-RAW = os.path.join(ROOT, "data", "raw")
-NORMAL = os.path.join(ROOT, "data", "normalized")
+RAW = os.path.join(ROOT, "data", "cse", "raw")
+NORMAL = os.path.join(ROOT, "data", "cse", "normalized")
 MANIFEST = os.path.join(RAW, "manifest.csv")
 
 os.makedirs(NORMAL, exist_ok=True)
@@ -206,4 +206,4 @@ def normalize_has_data():
 if __name__ == "__main__":
     classify_and_summarize()
     normalize_has_data()
-    print("Done. Check data/raw/manifest.csv and data/normalized/*.csv")
+    print("Done. Check data/cse/raw/manifest.csv and data/cse/normalized/*.csv")
