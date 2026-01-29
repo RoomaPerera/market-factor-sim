@@ -2,9 +2,9 @@ from pathlib import Path
 import pandas as pd
 
 ROOT = Path.cwd()
-NORMAL = ROOT / "data"/"normalized"
-TICKERS_CSV = ROOT / "data"/"tickers_used.csv"
-OUT_DIR = ROOT / "data" / "processed"
+NORMAL = ROOT / "data" / "cse" / "normalized"
+TICKERS_CSV = ROOT / "data" / "cse" / "tickers_used.csv"
+OUT_DIR = ROOT / "data" / "cse" / "processed"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 OUT_FILE = OUT_DIR / "prices_long.parquet"
 

@@ -3,8 +3,8 @@ import pandas as pd
 import numpy as np
 
 ROOT = Path.cwd()
-IN_FILE = ROOT / "data" / "processed" / "prices_long.parquet"
-OUT_FILE = ROOT / "data" / "processed" / "prices_with_returns.parquet"
+IN_FILE = ROOT / "data" / "cse" / "processed" / "prices_long.parquet"
+OUT_FILE = ROOT / "data" / "cse" / "processed" / "prices_with_returns.parquet"
 
 def main():
     df = pd.read_parquet(IN_FILE)

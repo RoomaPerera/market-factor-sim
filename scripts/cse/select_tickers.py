@@ -13,9 +13,9 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 ROOT = Path.cwd()
-RAW = ROOT / "data" / "raw"
+RAW = ROOT / "data" / "cse" /"raw"
 MANIFEST = RAW / "manifest.csv"
-OUT = ROOT / "data" / "tickers_used.csv"
+OUT = ROOT / "data" / "cse" /"tickers_used.csv"
 
 def parse_date(s):
     if not s:
