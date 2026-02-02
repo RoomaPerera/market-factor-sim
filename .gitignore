@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 .env
+# Licensed / paid datasets
+data/cse/

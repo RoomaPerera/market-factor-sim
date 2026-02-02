@@ -1,0 +1,6 @@
+factor,source,url,frequency,raw_path,normalized_path,last_updated,notes
+usd_lkr,Investing.com,https://www.investing.com/currencies/usd-lkr-historical-data,daily,data/usd_lkr/raw/usd_lkr_raw.csv,data/usd_lkr/normalized/usd_lkr.csv,2026-01-01,downloaded CSV
+interest_rates,Data-Library - CBSL,https://www.cbsl.lk/eResearch/Modules/RD/SearchPages/CMB_LendingAndDeposit.aspx,weekly,D:\market-factor-sim\data\interest_rates\raw\CMB_LendingAndDeposit.aspx.html,,,html paged saved for parsing
+inflation,CBSL,,,,,,PDF report saved for data extraction
+crude_oil_WTI,investing.com,https://www.investing.com/commodities/crude-oil-historical-data,daily,D:\market-factor-sim\data\crude_oil_WTI\raw\Crude Oil WTI Futures Historical Data.csv,,,downloaded CSV
+Real_GDP_Growth_Rate,CBSL Website,https://www.cbsl.gov.lk/en/statistics/economic-indicators/macro-economic-chart-pack,Quaterly,D:\market-factor-sim\data\GDP_Growth_Rate\raw,,2026-02-02,PDF reports saved for parsing and the year starting Q1 is April to June
